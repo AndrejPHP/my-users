@@ -1,0 +1,6 @@
+#search-users-body, .full_note {
+    display: none;
+}
+#search-users-toggle, .edit-user, .add-note, .delete-user, .edit-note, .delete-note  {
+    cursor: pointer;
+}
