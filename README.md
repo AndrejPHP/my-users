@@ -1,4 +1,4 @@
-#My Users
+# My Users
 Demo admin system for managing users and notes about users based on the popular Bootstrap admin theme **Gentelella**. The demo assumes you're logged in as an administrator. 
 
 To get things started, you need to have Composer installed. First things first run this command in the project directory:
@@ -21,7 +21,7 @@ If you use the full system or parts of the system in production, make sure to im
 
 Enjoy! :) 
 
-###Screenshots
+### Screenshots
 
 1
 ![Url](https://i.imgur.com/SQZWJ5f.png)
